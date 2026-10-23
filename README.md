@@ -1,4 +1,4 @@
-# FMCG Data Lakehouse Pipeline
+# LakeFusion Analytics | Parent–Child Lakehouse Pipeline on Databricks
 
 ### End-to-End Data Engineering Project Using AWS S3, Databricks, PySpark, and Delta Lake
 
